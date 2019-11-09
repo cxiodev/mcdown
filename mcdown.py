@@ -12,7 +12,7 @@ import string
 import time
 import threading
 
-from src.networking.connection import Connection
+from minecraft.networking.connection import Connection
 
 
 def uname(length):
