@@ -1,5 +1,5 @@
 # mcdown
-Spam bots to any minecraft server (offline mode)
+Pure python bot spammer for any minecraft server (offline mode)
 ## Install
 ```sh
 git clone https://github.com/newpotsdev/mcdown.git
